@@ -9,7 +9,7 @@ works and contribution to inspire, if not, showcase all I have achieved througho
 <DOCTYPE html>
 <html>
   <header>
-    <header style="text-align:center">PHP Language</header>
+    <header style="text-align:center">PHP Language ( 3 Years of Learning )</header>
   </header>
   <body>
     <img src="images/languages/php.png", alt="php_logo", width="150", height="150">
@@ -17,7 +17,7 @@ works and contribution to inspire, if not, showcase all I have achieved througho
 </html>
 <html>
   <header>
-    <header style="text-align:center">Python Language</header>
+    <header style="text-align:center">Python Language ( Currently Learning)</header>
   </header>
   <body>
     <img src="images/languages/python.png", alt="python_logo", width="150", height="100">
