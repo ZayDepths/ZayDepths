@@ -1,9 +1,9 @@
 # About Me
 
-I am Zay, a Filipino programming student who plans to learn various programming languages and showcase all my works.
+I am Zay, a Filipino student who plans to to dive into the programming world and learn various programming languages
 
 As I set upon this tiring yet fun journey of improving my capabilities on the programming world, I plan to share my
-works and contribution to inspire, if not, showcase what I have achieved on my learning sessions.
+works and contribution to inspire, if not, showcase all I have achieved throughout my whole learning sessions.
 
 ## What Programming Languages I Use
 <DOCTYPE html>
