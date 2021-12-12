@@ -1,6 +1,6 @@
 # About Me
 
-I am Zay, a Filipino student who plans to to dive into the programming world and learn various programming languages
+I am a Filipino student who plans to to dive into the programming world and learn various programming languages
 
 As I set upon this tiring yet fun journey of improving my capabilities on the programming world, I plan to share my
 works and contribution to inspire, if not, showcase all I have achieved throughout my whole learning sessions.
