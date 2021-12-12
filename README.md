@@ -15,6 +15,6 @@
     <header style="text-align:center">Python Language</header>
   </header>
   <body>
-    <img src="images/languages/python.png", alt="python_logo", width="150", height="150">
+    <img src="images/languages/python.png", alt="python_logo", width="150", height="100">
   </body>
 </html>
